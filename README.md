@@ -2,6 +2,8 @@
 
 An unofficial GTK4/libadwaita desktop app for connecting to CyberGhost VPN by country.
 
+![CyberGhost VPN app screenshot](screenshot/cyberghost-vpn-screenshot.png)
+
 It uses NetworkManager's OpenVPN plugin, not the official `cyberghostvpn` CLI, because that CLI doesn't support current Ubuntu releases. The connection also appears in GNOME's system menu.
 
 ## Install
