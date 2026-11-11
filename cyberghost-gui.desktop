@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=CyberGhost VPN
+Comment=Connect to CyberGhost VPN servers by country
+Exec=cyberghost-gui
+Icon=network-vpn
+Terminal=false
+Categories=Network;
+Keywords=vpn;cyberghost;openvpn;
+StartupWMClass=com.example.CyberGhostGUI
